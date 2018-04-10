@@ -1,5 +1,5 @@
 ![](https://images.cooltext.com/5128479.png)
-![](https://images.cooltext.com/5128493.png)
+![](https://images.cooltext.com/5128498.png)
 ## ¿Para qué sirven?
 Permite así la comunicación entre el usuario y el ordenador
 ## FUNCIONES BASICAS:
