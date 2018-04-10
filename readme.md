@@ -3,6 +3,9 @@ Los sistemas operativos generalmente vienen precargados en cualquier ordenador c
 ![](https://images.cooltext.com/5128505.png)
 
 
+
+
+
 Permite así la comunicación entre el usuario y el ordenador
 ## FUNCIONES BASICAS:
 Son administrar los recursos del ordenador, coordinar el hardware y organizar archivos y directorios en los dispositivos de almacenamiento de nuestro ordenador.
