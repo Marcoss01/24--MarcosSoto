@@ -1,4 +1,4 @@
-# ¿Qué son los sistemas operativos?
+![](https://images.cooltext.com/5128479.png)
 Los sistemas operativos generalmente vienen precargados en cualquier ordenador cuando lo compramos. La mayoría de la gente usa el sistema operativo que viene en su ordenador o movil, pero es posible actualizarlo o incluso cambiar el sistema operativo por otro diferente.
 ## ¿Para qué sirven?
 Permite así la comunicación entre el usuario y el ordenador
