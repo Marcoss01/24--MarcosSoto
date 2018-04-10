@@ -14,4 +14,4 @@ El Mac OS es el sistema operativo de Apple Macintosh para líneas de computadora
 Linux o GNU/Linux como sistema operativo fue diseñado para proporcionar a los usuarios de computadoras personales una alternativa libre o de muy bajo costo. Linux tiene la reputación de ser un sistema muy eficiente y rápido. Hay muchas versiones diferentes, las más conocidas son Ubuntu o Fedora. Las versiones se pueden modificar de forma libre por cualquier usuario.
 ## Sistemas Operativos para móviles
 Los sistemas operativos para móviles y tablets más utilizados son el Android y el iOS, puedes ver más en la imagen de más abajo. Si quieres saber más sobre estos sistemas operativos aquí te dejamos un enlace: Sistemas Operativos Moviles.
-![](https://informatica1aer.wordpress.com/2015/09/02/clasificacion-de-los-sistemas-operativos/.jpg)
+![](http://quonty.com/blog/wp-content/uploads/2017/09/elegir-sistema-operativo-smartphone.jpg)
